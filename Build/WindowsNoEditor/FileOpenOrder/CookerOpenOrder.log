@@ -1,0 +1,728 @@
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 0
+"../../../Engine/Content/ArtTools/RenderToTexture/Enums/EIntTypes.uasset" 1
+"../../../Engine/Content/ArtTools/RenderToTexture/Macros/RenderToTextureFunctionLibrary.uasset" 2
+"../../../Engine/Content/ArtTools/RenderToTexture/Enums/EFloatTypes.uasset" 3
+"../../../Engine/Content/ArtTools/RenderToTexture/Macros/RenderToTextureMacros.uasset" 4
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 5
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 6
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 7
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 8
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 9
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 10
+"../../../Engine/Content/BasicShapes/Cone.uasset" 11
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 12
+"../../../Engine/Content/BasicShapes/Plane.uasset" 13
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 14
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 15
+"../../../Engine/Content/BufferVisualization/AmbientOcclusion.uasset" 16
+"../../../Engine/Content/BufferVisualization/BaseColor.uasset" 17
+"../../../Engine/Content/BufferVisualization/CustomDepth.uasset" 18
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 19
+"../../../Engine/Content/BufferVisualization/CustomDepthWorldUnits.uasset" 20
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 21
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uasset" 22
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ScreenResolution.uasset" 23
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedUVs.uasset" 24
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 25
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 26
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 27
+"../../../Engine/Content/BufferVisualization/CustomStencil.uasset" 28
+"../../../Engine/Content/BufferVisualization/FinalImage.uasset" 29
+"../../../Engine/Content/BufferVisualization/LightingModel.uasset" 30
+"../../../Engine/Content/BufferVisualization/MaterialAO.uasset" 31
+"../../../Engine/Content/BufferVisualization/Metallic.uasset" 32
+"../../../Engine/Content/BufferVisualization/Opacity.uasset" 33
+"../../../Engine/Content/BufferVisualization/PostTonemapHDRColor.uasset" 34
+"../../../Engine/Content/BufferVisualization/PreTonemapHDRColor.uasset" 35
+"../../../Engine/Content/BufferVisualization/Roughness.uasset" 36
+"../../../Engine/Content/BufferVisualization/SceneColor.uasset" 37
+"../../../Engine/Content/BufferVisualization/SceneDepth.uasset" 38
+"../../../Engine/Content/BufferVisualization/SceneDepthWorldUnits.uasset" 39
+"../../../Engine/Content/BufferVisualization/SeparateTranslucencyA.uasset" 40
+"../../../Engine/Content/BufferVisualization/SeparateTranslucencyRGB.uasset" 41
+"../../../Engine/Content/BufferVisualization/Specular.uasset" 42
+"../../../Engine/Content/BufferVisualization/SubsurfaceColor.uasset" 43
+"../../../Engine/Content/BufferVisualization/WorldNormal.uasset" 44
+"../../../Engine/Content/EditorBlueprintResources/ActorMacros.uasset" 45
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 46
+"../../../Engine/Content/EditorLandscapeResources/AlphaBrushMaterial.uasset" 47
+"../../../Engine/Content/EditorLandscapeResources/AlphaBrushMaterial_Smooth.uasset" 48
+"../../../Engine/Content/EditorLandscapeResources/CircleBrushMaterial.uasset" 49
+"../../../Engine/Content/EditorLandscapeResources/CircleBrushMaterial_Linear.uasset" 50
+"../../../Engine/Content/EditorLandscapeResources/CircleBrushMaterial_Smooth.uasset" 51
+"../../../Engine/Content/EditorLandscapeResources/CircleBrushMaterial_Spherical.uasset" 52
+"../../../Engine/Content/EditorLandscapeResources/CircleBrushMaterial_Tip.uasset" 53
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 54
+"../../../Engine/Content/EditorLandscapeResources/FlattenHeightMat.uasset" 55
+"../../../Engine/Content/EditorLandscapeResources/FlattenPlaneMesh.uasset" 56
+"../../../Engine/Content/EditorLandscapeResources/LandscapeGizmoHeight_Mat.uasset" 57
+"../../../Engine/Content/EditorLandscapeResources/LandscapeGizmo_Mat.uasset" 58
+"../../../Engine/Content/EditorLandscapeResources/LandscapeGizmo_Mat_Copied.uasset" 59
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 60
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.uasset" 61
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/DebugNumberStrip.uasset" 62
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Debug/DebugIntValues.uasset" 63
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/LocalPosition.uasset" 64
+"../../../Engine/Content/EditorLandscapeResources/LandscapeLayerUsageMaterial.uasset" 65
+"../../../Engine/Content/EditorLandscapeResources/LandscapeThumbnailHeightmap.uasset" 66
+"../../../Engine/Content/EditorLandscapeResources/LandscapeThumbnailWeightmap.uasset" 67
+"../../../Engine/Content/EditorLandscapeResources/WhiteSquareTexture.uasset" 68
+"../../../Engine/Content/EditorLandscapeResources/LayerVisMaterial.uasset" 69
+"../../../Engine/Content/EditorLandscapeResources/MaskBrushMaterial.uasset" 70
+"../../../Engine/Content/EditorLandscapeResources/MaskBrushMaterial_Gizmo.uasset" 71
+"../../../Engine/Content/EditorLandscapeResources/MaskBrushMaterial_MaskedRegion.uasset" 72
+"../../../Engine/Content/EditorLandscapeResources/MirrorPlaneMaterial.uasset" 73
+"../../../Engine/Content/EditorLandscapeResources/PatternBrushMaterial_Smooth.uasset" 74
+"../../../Engine/Content/EditorLandscapeResources/SelectBrushMaterial.uasset" 75
+"../../../Engine/Content/EditorLandscapeResources/SelectBrushMaterial_Selected.uasset" 76
+"../../../Engine/Content/EditorLandscapeResources/SelectBrushMaterial_SelectedRegion.uasset" 77
+"../../../Engine/Content/EditorLandscapeResources/SplineEditorMeshMat.uasset" 78
+"../../../Engine/Content/EditorLandscapeResources/SplineEditorMesh.uasset" 79
+"../../../Engine/Content/EditorMaterials/Cross.uasset" 80
+"../../../Engine/Content/EditorMaterials/Cross_Mat.uasset" 81
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 82
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.uasset" 83
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/FlipBook.uasset" 84
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Sign.uasset" 85
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Round.uasset" 86
+"../../../Engine/Content/EditorResources/T_EditorHelp.uasset" 87
+"../../../Engine/Content/EditorMaterials/HelpActorMaterial.uasset" 88
+"../../../Engine/Content/EditorMaterials/CompositeARGBLayer.uasset" 89
+"../../../Engine/Content/EditorMaterials/TilingAALineIntegral.uasset" 90
+"../../../Engine/Content/EditorMaterials/TilingAALineBoxFiltered.uasset" 91
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 92
+"../../../Engine/Content/EditorMaterials/TilingAADots.uasset" 93
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBase.uasset" 94
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBlend.uasset" 95
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Screen.uasset" 96
+"../../../Engine/Content/EditorMaterials/TilingAAGrid.uasset" 97
+"../../../Engine/Content/EditorMaterials/LevelGridMaterial.uasset" 98
+"../../../Engine/Content/EditorMaterials/MakeCompositeARGBLayer.uasset" 99
+"../../../Engine/Content/EditorResources/LevelGrid1DStripes.uasset" 100
+"../../../Engine/Content/EditorMaterials/TextureGridCascaded1D.uasset" 101
+"../../../Engine/Content/EditorMaterials/TextureGridCascaded2D.uasset" 102
+"../../../Engine/Content/EditorMaterials/LevelGridMaterial2.uasset" 103
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 104
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 105
+"../../../Engine/Content/EditorMaterials/AntialiasedGridFloor.uasset" 106
+"../../../Engine/Content/EditorResources/TilePatine_D.uasset" 107
+"../../../Engine/Content/EditorResources/TilePatine_N.uasset" 108
+"../../../Engine/Content/EngineMaterials/Grid.uasset" 109
+"../../../Engine/Content/EditorMaterials/PersonaFloorMat.uasset" 110
+"../../../Engine/Content/EditorMaterials/PhAT_BoneSelectedMaterial.uasset" 111
+"../../../Engine/Content/EditorMaterials/PhAT_ElemSelectedMaterial.uasset" 112
+"../../../Engine/Content/EditorMaterials/PhAT_NoCollisionMaterial.uasset" 113
+"../../../Engine/Content/EditorMaterials/PhAT_UnselectedMaterial.uasset" 114
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 115
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 116
+"../../../Engine/Content/EditorMaterials/TargetIcon.uasset" 117
+"../../../Engine/Content/EditorMaterials/Tick.uasset" 118
+"../../../Engine/Content/EditorMaterials/Tick_Mat.uasset" 119
+"../../../Engine/Content/EditorMaterials/WidgetGridVertexColorMaterial.uasset" 120
+"../../../Engine/Content/EditorMaterials/WidgetGridVertexColorMaterial_Ma.uasset" 121
+"../../../Engine/Content/EditorMaterials/WidgetMaterial.uasset" 122
+"../../../Engine/Content/EditorMaterials/WidgetMaterial_Current.uasset" 123
+"../../../Engine/Content/EditorMaterials/WidgetMaterial_X.uasset" 124
+"../../../Engine/Content/EditorMaterials/WidgetMaterial_Y.uasset" 125
+"../../../Engine/Content/EditorMaterials/WidgetMaterial_Z.uasset" 126
+"../../../Engine/Content/EditorMaterials/WidgetVertexColorMaterial.uasset" 127
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 128
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 129
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 130
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 131
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 132
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 133
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 134
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 135
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 136
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 137
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 138
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 139
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 140
+"../../../Engine/Content/EditorMaterials/Thumbnails/FloorPlaneMaterial.uasset" 141
+"../../../Engine/Content/EditorMeshes/EditorCube.uasset" 142
+"../../../Engine/Content/EditorMeshes/EditorCylinder.uasset" 143
+"../../../Engine/Content/EditorMeshes/EditorPlane.uasset" 144
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 145
+"../../../Engine/Content/EditorMeshes/EditorSkySphere.uasset" 146
+"../../../Engine/Content/EditorMeshes/EditorSphere.uasset" 147
+"../../../Engine/Content/EditorResources/MatineeCam_D.uasset" 148
+"../../../Engine/Content/EditorMaterials/MatineeCam_mat.uasset" 149
+"../../../Engine/Content/EditorMeshes/MatineeCam_SM.uasset" 150
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 151
+"../../../Engine/Content/EditorMaterials/GridMaterial.uasset" 152
+"../../../Engine/Content/EditorMeshes/PhAT_FloorBox.uasset" 153
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 154
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_CameraBody.uasset" 155
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleOpaque.uasset" 156
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_CamViewFinder.uasset" 157
+"../../../Engine/Content/EditorMeshes/Camera/SM_CineCam.uasset" 158
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 159
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 160
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 161
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 162
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 163
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 164
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 165
+"../../../Engine/Content/EditorResources/Bad.uasset" 166
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 167
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 168
+"../../../Engine/Content/EditorResources/MatInstActSprite.uasset" 169
+"../../../Engine/Content/EditorResources/SceneManager.uasset" 170
+"../../../Engine/Content/EditorResources/SmallFont.uasset" 171
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 172
+"../../../Engine/Content/EditorResources/S_DecalActorIcon.uasset" 173
+"../../../Engine/Content/EditorResources/S_Emitter.uasset" 174
+"../../../Engine/Content/EditorResources/S_ExpoHeightFog.uasset" 175
+"../../../Engine/Content/EditorResources/S_FTest.uasset" 176
+"../../../Engine/Content/EditorResources/S_KBSJoint.uasset" 177
+"../../../Engine/Content/EditorResources/S_KHinge.uasset" 178
+"../../../Engine/Content/EditorResources/S_KPrismatic.uasset" 179
+"../../../Engine/Content/EditorResources/S_LevelSequence.uasset" 180
+"../../../Engine/Content/EditorResources/S_NavP.uasset" 181
+"../../../Engine/Content/EditorResources/S_Note.uasset" 182
+"../../../Engine/Content/EditorResources/S_Player.uasset" 183
+"../../../Engine/Content/EditorResources/S_PortalActorIcon2.uasset" 184
+"../../../Engine/Content/EditorResources/S_RadForce.uasset" 185
+"../../../Engine/Content/EditorResources/S_ReflActorIcon.uasset" 186
+"../../../Engine/Content/EditorResources/S_Terrain.uasset" 187
+"../../../Engine/Content/EditorResources/S_TextRenderActorIcon.uasset" 188
+"../../../Engine/Content/EditorResources/S_Thruster.uasset" 189
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 190
+"../../../Engine/Content/EditorResources/S_VectorFieldVol.uasset" 191
+"../../../Engine/Content/EditorResources/S_WindDirectional.uasset" 192
+"../../../Engine/Content/EditorResources/AI/S_NavLink.uasset" 193
+"../../../Engine/Content/EditorResources/LightIcons/SkyLight.uasset" 194
+"../../../Engine/Content/EditorResources/LightIcons/S_LightDirectional.uasset" 195
+"../../../Engine/Content/EditorResources/LightIcons/S_LightDirectionalMove.uasset" 196
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 197
+"../../../Engine/Content/EditorResources/LightIcons/S_LightPoint.uasset" 198
+"../../../Engine/Content/EditorResources/LightIcons/S_LightPointMove.uasset" 199
+"../../../Engine/Content/EditorResources/LightIcons/S_LightSpot.uasset" 200
+"../../../Engine/Content/EditorResources/LightIcons/S_LightSpotMove.uasset" 201
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 202
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 203
+"../../../Engine/Content/EditorResources/Spline/T_Loft_Spline.uasset" 204
+"../../../Engine/Content/EditorSounds/GamePreview/PossessPlayer.uasset" 205
+"../../../Engine/Content/EditorSounds/GamePreview/PossessPlayer_Cue.uasset" 206
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 207
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 208
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 209
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 210
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 211
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 212
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 213
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 214
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 215
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 216
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 217
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 218
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 219
+"../../../Engine/Content/EngineDebugMaterials/LevelColorationLitMaterial.uasset" 220
+"../../../Engine/Content/EngineDebugMaterials/LevelColorationUnlitMaterial.uasset" 221
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 222
+"../../../Engine/Content/EngineDebugMaterials/MAT_LevelColorationLitLightmapUV.uasset" 223
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 224
+"../../../Engine/Content/EngineDebugMaterials/ShadedLevelColorationLitMaterial.uasset" 225
+"../../../Engine/Content/EngineDebugMaterials/ShadedLevelColorationUnlitMateri.uasset" 226
+"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset" 227
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_AlphaAsColor.uasset" 228
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_BlueOnly.uasset" 229
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_ColorOnly.uasset" 230
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_GreenOnly.uasset" 231
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_RedOnly.uasset" 232
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 233
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 234
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 235
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 236
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 237
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 238
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 239
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 240
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 241
+"../../../Engine/Content/EngineFonts/SmallFont.uasset" 242
+"../../../Engine/Content/EngineFonts/TinyFont.uasset" 243
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 244
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 245
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 246
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 247
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 248
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 249
+"../../../Engine/Content/EngineMaterials/BlinkingCaret.uasset" 250
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 251
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 252
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 253
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 254
+"../../../Engine/Content/EngineMaterials/DefaultNormal.uasset" 255
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 256
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 257
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 258
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 259
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 260
+"../../../Engine/Content/EngineMaterials/Grid_N.uasset" 261
+"../../../Engine/Content/EngineMaterials/HighResolutionScreenshotMaskFunction.uasset" 262
+"../../../Engine/Content/EngineMaterials/HighResScreenshot.uasset" 263
+"../../../Engine/Content/EngineMaterials/HighResScreenshotCaptureRegion.uasset" 264
+"../../../Engine/Content/EngineMaterials/HighResScreenshotMask.uasset" 265
+"../../../Engine/Content/EngineMaterials/LandscapeHolePhysicalMaterial.uasset" 266
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 267
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 268
+"../../../Engine/Content/EngineMaterials/PaperDiffuse.uasset" 269
+"../../../Engine/Content/EngineMaterials/PaperNormal.uasset" 270
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 271
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 272
+"../../../Engine/Content/EngineMaterials/PhysMat_Rubber.uasset" 273
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 274
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 275
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 276
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 277
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 278
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 279
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 280
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 281
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 282
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 283
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 284
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 285
+"../../../Engine/Content/EngineResources/Black.uasset" 286
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 287
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 288
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 289
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 290
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 291
+"../../../Engine/Content/EngineResources/StreamingPauseIcon.uasset" 292
+"../../../Engine/Content/EngineResources/M_StreamingPause.uasset" 293
+"../../../Engine/Content/EngineSounds/Master.uasset" 294
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 295
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 296
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 297
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 298
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 299
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 300
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 301
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 302
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 303
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 304
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 305
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 306
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 307
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 308
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 309
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 310
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 311
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 312
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 313
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 314
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 315
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 316
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 317
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 318
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 319
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 320
+"../../../Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape.uasset" 321
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 322
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 323
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 324
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 325
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 326
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 327
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 328
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 329
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 330
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 331
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Cave/cave/cavetest_DefaultMaterial_BaseColor.uasset" 332
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Cave/cave/cavetest_DefaultMaterial_Normal.uasset" 333
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Cave/cave/cavetest_DefaultMaterial_OcclusionRoughnessMetallic.uasset" 334
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Cave/cave/Cave_Mat.uasset" 335
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Cave/caveEntrance/caveEntrance_DefaultMaterial_BaseColor.uasset" 336
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Cave/caveEntrance/caveEntrance_DefaultMaterial_Normal.uasset" 337
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Cave/caveEntrance/caveEntrance_DefaultMaterial_OcclusionRoughnessMetallic.uasset" 338
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Cave/caveEntrance/caveEntrance_Mat.uasset" 339
+"../../../Engine/Content/ArtTools/RenderToTexture/Enums/RenderToTexture_Enum.uasset" 340
+"../../../Engine/Content/ArtTools/RenderToTexture/Enums/RenderToTexture_Flipbook_Enum.uasset" 341
+"../../../Engine/Content/ArtTools/RenderToTexture/Enums/RenderToTexture_Imposter_Enum.uasset" 342
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/StarterContent/Audio/Collapse01.uasset" 343
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/StarterContent/Audio/Collapse02.uasset" 344
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/StarterContent/Audio/Collapse_Cue.uasset" 345
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/StarterContent/Audio/Explosion01.uasset" 346
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/StarterContent/Audio/Explosion02.uasset" 347
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/StarterContent/Audio/Explosion_Cue.uasset" 348
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/StarterContent/Audio/Fire01.uasset" 349
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/StarterContent/Audio/Fire01_Cue.uasset" 350
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/StarterContent/Audio/Fire_Sparks01.uasset" 351
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 352
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/StarterContent/Audio/Light01.uasset" 353
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/StarterContent/Audio/Light01_Cue.uasset" 354
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/StarterContent/Audio/Light02.uasset" 355
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/StarterContent/Audio/Light02_Cue.uasset" 356
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/StarterContent/Audio/Smoke01.uasset" 357
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/StarterContent/Audio/Smoke01_Cue.uasset" 358
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 359
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/StarterContent/Audio/Starter_Birds01.uasset" 360
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/StarterContent/Audio/Starter_Music01.uasset" 361
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 362
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/StarterContent/Audio/Starter_Wind05.uasset" 363
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/StarterContent/Audio/Starter_Wind06.uasset" 364
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/StarterContent/Audio/Steam01.uasset" 365
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/StarterContent/Audio/Steam01_Cue.uasset" 366
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 367
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 368
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 369
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 370
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 371
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 372
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/ArrayOfActor.uasset" 373
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/ArrayOfSwitch.uasset" 374
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SceneNode.uasset" 375
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_Switch.uasset" 376
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SceneRoot.uasset" 377
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/FBXImporterUtils.uasset" 378
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/DeltaGenAnimationTrackType.uasset" 379
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimationTrackComponent.uasset" 380
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimationTrackType.uasset" 381
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimCurveComponent.uasset" 382
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimCurveType.uasset" 383
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VariantSwitchType.uasset" 384
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDVariantSwitchType.uasset" 385
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDVariantType.uasset" 386
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 387
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 388
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 389
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 390
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 391
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 392
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 393
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 394
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 395
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 396
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 397
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 398
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Characters/NPC/Ninja/Ninja_Skeleton.uasset" 399
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Characters/NPC/Ninja/Animations/Deploy.uasset" 400
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Characters/NPC/Ninja/Animations/Flinch.uasset" 401
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Characters/NPC/Ninja/Animations/BasicAnims_Armature_Idle_Sword.uasset" 402
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Characters/NPC/Ninja/Animations/BasicAnims_Armature_Walk_Sword.uasset" 403
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Characters/NPC/Ninja/Animations/rUN.uasset" 404
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Characters/NPC/Ninja/Animations/BasicEnemyAttackSpace.uasset" 405
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Characters/NPC/Ninja/Animations/Idle.uasset" 406
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Characters/NPC/Ninja/Animations/Walk.uasset" 407
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Characters/NPC/Ninja/Animations/BasicEnemyBlendSpace.uasset" 408
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Characters/NPC/Ninja/Animations/BasicEnemyAnimBP.uasset" 409
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Characters/NPC/Ninja/Animations/FlinchMontage.uasset" 410
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Blueprints/BasicEnemy/BasicEnemyBlackboard.uasset" 411
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Blueprints/BasicEnemy/BasicEnemyTaskChase.uasset" 412
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Blueprints/BasicEnemy/BasicEnemyTaskFacePlayer.uasset" 413
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Blueprints/BasicEnemy/BasicEnemyTaskPatrol.uasset" 414
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Characters/NPC/Ninja/Animations/Attack.uasset" 415
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Characters/NPC/Ninja/Animations/BasicEnemyAttackMontage.uasset" 416
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Blueprints/BasicEnemy/EnemyTaskAttack.uasset" 417
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Blueprints/BasicEnemy/BasicEnemyBT.uasset" 418
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Blueprints/BasicEnemy/BasicEnemyAIController.uasset" 419
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Blueprints/HealthBottle.uasset" 420
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Blueprints/MasterBPI.uasset" 421
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Characters/Player/Ogre_Skeleton.uasset" 422
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Characters/Player/Animations/Block.uasset" 423
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Characters/Player/Animations/JumpCharge.uasset" 424
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Blueprints/ShrekStomp.uasset" 425
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Characters/Player/Animations/JumpEnd.uasset" 426
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Characters/Player/Animations/JumpLoop.uasset" 427
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Characters/Player/Animations/JumpStart.uasset" 428
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Characters/Player/Animations/Idle.uasset" 429
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Characters/Player/Animations/Run.uasset" 430
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Characters/Player/Animations/StrafeBack.uasset" 431
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Characters/Player/Animations/StrafeLeft.uasset" 432
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Characters/Player/Animations/StrafeLeftBack.uasset" 433
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Characters/Player/Animations/StrafeRight.uasset" 434
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Characters/Player/Animations/StrafeRightBack.uasset" 435
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Characters/Player/Animations/Walk.uasset" 436
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Characters/Player/Animations/OgreStrafeBlend.uasset" 437
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Characters/Player/Animations/OgreRunBlend.uasset" 438
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Characters/Player/Animations/Roll_Backward.uasset" 439
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Characters/Player/Animations/Roll_Forward.uasset" 440
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Characters/Player/Animations/Roll_Left.uasset" 441
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Characters/Player/Animations/Roll_Right.uasset" 442
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Characters/Player/Animations/RollBlend.uasset" 443
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Characters/Player/Animations/OgreAnimBP.uasset" 444
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Characters/Player/Animations/Combat/LeftHook.uasset" 445
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Characters/Player/Animations/Combat/LeftHook_Montage.uasset" 446
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Characters/Player/Animations/Combat/LeftUpperCut_NEW.uasset" 447
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Characters/Player/Animations/Combat/LeftUpperCut_NEW_Montage.uasset" 448
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Characters/Player/Animations/Combat/RightHook.uasset" 449
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Characters/Player/Animations/Combat/RightHook_Montage.uasset" 450
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Characters/Player/Animations/Drink.uasset" 451
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Characters/Player/Animations/Drink_Montage.uasset" 452
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Characters/Player/Animations/Death.uasset" 453
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Blueprints/Player_CameraShake.uasset" 454
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Blueprints/PersistentGameInstance.uasset" 455
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Blueprints/Save_BP/Save_Blueprint.uasset" 456
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/UI/Source/BloodOverlay.uasset" 457
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/UI/Source/healthEmpty.uasset" 458
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/UI/Source/healthFull.uasset" 459
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/UI/Source/healthFullGreen.uasset" 460
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/UI/Source/hpempty.uasset" 461
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/UI/Source/hpfull.uasset" 462
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/UI/Source/staminaEmpty.uasset" 463
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/UI/Source/staminaFull.uasset" 464
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/UI/HUD.uasset" 465
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/UI/Settings.uasset" 466
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/UI/MainMenu.uasset" 467
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/UI/Load.uasset" 468
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/UI/Save.uasset" 469
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/UI/PauseMenu.uasset" 470
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Characters/Player/Items/hp_DefaultMaterial_BaseColor.uasset" 471
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Characters/Player/Items/hp_DefaultMaterial_Emissive.uasset" 472
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Characters/Player/Items/hp_DefaultMaterial_Normal.uasset" 473
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Characters/Player/Items/hp_DefaultMaterial_OcclusionRoughnessMetallic.uasset" 474
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Characters/Player/Items/hp_Mat.uasset" 475
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Characters/Player/Items/hp.uasset" 476
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Characters/Player/Materials/shrekmodel_None_BaseColor.uasset" 477
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Characters/Player/Materials/shrekmodel_None_Emissive.uasset" 478
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Characters/Player/Materials/shrekmodel_None_Normal.uasset" 479
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Characters/Player/Materials/shrekmodel_None_OcclusionRoughnessMetallic.uasset" 480
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Characters/Player/Materials/Ogre_Mat.uasset" 481
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Characters/Player/Ogre_PhysicsAsset.uasset" 482
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Characters/Player/Ogre.uasset" 483
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/UI/Source/you_died.uasset" 484
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/UI/GameOver.uasset" 485
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/UI/JumpBar.uasset" 486
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Blueprints/ThirdPersonCharacter.uasset" 487
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Characters/NPC/Ninja/Materials/flavorNinja_DefaultMaterial_BaseColor.uasset" 488
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Characters/NPC/Ninja/Materials/flavorNinja_DefaultMaterial_Emissive.uasset" 489
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Characters/NPC/Ninja/Materials/flavorNinja_DefaultMaterial_Normal.uasset" 490
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Characters/NPC/Ninja/Materials/flavorNinja_DefaultMaterial_OcclusionRoughnessMetallic.uasset" 491
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Characters/NPC/Ninja/Materials/Ninja_Mat.uasset" 492
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Characters/NPC/Ninja/Ninja_PhysicsAsset.uasset" 493
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Characters/NPC/Ninja/Ninja.uasset" 494
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Characters/NPC/Weapons/katana_DefaultMaterial_BaseColor.uasset" 495
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Characters/NPC/Weapons/katana_DefaultMaterial_Normal.uasset" 496
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Characters/NPC/Weapons/katana_DefaultMaterial_OcclusionRoughnessMetallic.uasset" 497
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Characters/NPC/Weapons/KatanaMat.uasset" 498
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Characters/NPC/Weapons/Katana.uasset" 499
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/UI/Source/enemyEmpty.uasset" 500
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/UI/Source/enemyFull.uasset" 501
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/UI/EnemyUI.uasset" 502
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Blueprints/BasicEnemy/BasicEnemy.uasset" 503
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 504
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 505
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 506
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 507
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 508
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 509
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 510
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 511
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 512
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Blueprints/HealthPickUp.uasset" 513
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Blueprints/ThirdPersonGameMode.uasset" 514
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Sky_Sphere.uasset" 515
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 516
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Maps/Dojo_sharedassets/Grass_LayerInfo.uasset" 517
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Maps/Dojo_sharedassets/Rock_LayerInfo.uasset" 518
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Maps/Dojo_sharedassets/Sand_LayerInfo.uasset" 519
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Maps/Dojo_BuiltData.uasset" 520
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 521
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat4.uasset" 522
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Blueprints/BasicEnemy/HighlightMaterial.uasset" 523
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/Bamboo.uasset" 524
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/Bamboo_Mat.uasset" 525
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/BambooWall.uasset" 526
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/BambooWall_Mat.uasset" 527
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoRoofCornerInner/dojoRoofCorner2_Material_BaseColor.uasset" 528
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoRoofCornerInner/dojoRoofCorner2_Material_Normal.uasset" 529
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoRoofCornerInner/dojoRoofCorner2_Material_OcclusionRoughnessMetallic.uasset" 530
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoRoofCornerInner/dojoRoofCornerInner_mat.uasset" 531
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Materials/Grass/T_Ground_Grass_D.uasset" 532
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Materials/Grass/T_Ground_Grass_N.uasset" 533
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Materials/Rock/MartianBarrensRocky_basecolor.uasset" 534
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Materials/Rock/MartianBarrensRocky_normal.uasset" 535
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Materials/Sand/DesertStrata03_basecolor.uasset" 536
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Materials/Sand/DesertStrata03_normal.uasset" 537
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Materials/Landscape_Mat.uasset" 538
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 539
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 540
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 541
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/StarterContent/Textures/T_MacroVariation.uasset" 542
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 543
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 544
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 545
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 546
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 547
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 548
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 549
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 550
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 551
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 552
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 553
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 554
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/StarterContent/Materials/M_Wood_Oak.uasset" 555
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 556
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 557
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/StarterContent/Materials/M_Wood_Pine.uasset" 558
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 559
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 560
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 561
+"../../../Engine/Content/BasicShapes/Cube.uasset" 562
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Cave/Props/Cave.uasset" 563
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Cave/Props/caveEntrance.uasset" 564
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Cave/bridgeCave/caveForTheBridge_DefaultMaterial_BaseColor.uasset" 565
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Cave/bridgeCave/caveForTheBridge_DefaultMaterial_Normal.uasset" 566
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Cave/bridgeCave/caveForTheBridge_DefaultMaterial_OcclusionRoughnessMetallic.uasset" 567
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Cave/bridgeCave/bridgeCave_Mat.uasset" 568
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Cave/Props/caveForTheBridge.uasset" 569
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Cave/caveSupport/mineSupport_Material_BaseColor.uasset" 570
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Cave/caveSupport/mineSupport_Material_Normal.uasset" 571
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Cave/caveSupport/mineSupport_Material_OcclusionRoughnessMetallic.uasset" 572
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Cave/caveSupport/caveSupport.uasset" 573
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Cave/Props/mineSupport.uasset" 574
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Cave/CaveSupportEntrance/mineSupportDoor_Material_BaseColor.uasset" 575
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Cave/CaveSupportEntrance/mineSupportDoor_Material_Normal.uasset" 576
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Cave/CaveSupportEntrance/mineSupportDoor_Material_OcclusionRoughnessMetallic.uasset" 577
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Cave/CaveSupportEntrance/CaveSupportEntrance_Mat.uasset" 578
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Cave/Props/mineSupportDoor.uasset" 579
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Cave/Rocks/rock2_Material_BaseColor.uasset" 580
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Cave/Rocks/rock2_Material_Normal.uasset" 581
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Cave/Rocks/rock2_Material_OcclusionRoughnessMetallic.uasset" 582
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Cave/Rocks/rock_Mat.uasset" 583
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Cave/Rocks/rock2.uasset" 584
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Cave/Rocks/rock3.uasset" 585
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Cave/Rocks/rock4.uasset" 586
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Cave/Rocks/rock5.uasset" 587
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/cliffBrokenBridge/cliffBrokeBridge_DefaultMaterial_BaseColor.uasset" 588
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/cliffBrokenBridge/cliffBrokeBridge_DefaultMaterial_Normal.uasset" 589
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/cliffBrokenBridge/cliffBrokeBridge_DefaultMaterial_OcclusionRoughnessMetallic.uasset" 590
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/cliffBrokenBridge/cliffBrokenBridge_Mat.uasset" 591
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/Props/cliffBrokeBridge.uasset" 592
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoBench/dojoBench_DefaultMaterial_BaseColor.uasset" 593
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoBench/dojoBench_DefaultMaterial_Normal.uasset" 594
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoBench/dojoBench_DefaultMaterial_OcclusionRoughnessMetallic.uasset" 595
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoBench/dojoBench_Mat.uasset" 596
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/Props/dojoBench.uasset" 597
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoBridge/dojoBridge_DefaultMaterial_BaseColor.uasset" 598
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoBridge/dojoBridge_DefaultMaterial_Normal.uasset" 599
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoBridge/dojoBridge_DefaultMaterial_OcclusionRoughnessMetallic.uasset" 600
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoBridge/dojoBridge.uasset" 601
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/Props/dojoBridge.uasset" 602
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoDoor/dojoDoor_Material_BaseColor.uasset" 603
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoDoor/dojoDoor_Material_Normal.uasset" 604
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoDoor/dojoDoor_Material_OcclusionRoughnessMetallic.uasset" 605
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoDoor/dojoDoor.uasset" 606
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/Props/dojoDoor.uasset" 607
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoDoorFrame/dojoWallDoor_DefaultMaterial_BaseColor.uasset" 608
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoDoorFrame/dojoWallDoor_DefaultMaterial_Normal.uasset" 609
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoDoorFrame/dojoWallDoor_DefaultMaterial_OcclusionRoughnessMetallic.uasset" 610
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoDoorFrame/dojoDoorFrame.uasset" 611
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/Props/dojoDoorFrame.uasset" 612
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoDummy/dummy_Material_BaseColor.uasset" 613
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoDummy/dummy_Material_Normal.uasset" 614
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoDummy/dummy_Material_OcclusionRoughnessMetallic.uasset" 615
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoDummy/dojoDummy_Mat.uasset" 616
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/Props/dojoDummy.uasset" 617
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoGate/dojoGate_Material_003_BaseColor.uasset" 618
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoGate/dojoGate_Material_003_Normal.uasset" 619
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoGate/dojoGate_Material_003_OcclusionRoughnessMetallic.uasset" 620
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoGate/dojoGate_Mat.uasset" 621
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/Props/dojoGate.uasset" 622
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoLamp/dojoLamp_DefaultMaterial_BaseColor.uasset" 623
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoLamp/dojoLamp_DefaultMaterial_Emissive.uasset" 624
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoLamp/dojoLamp_DefaultMaterial_Normal.uasset" 625
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoLamp/dojoLamp_DefaultMaterial_OcclusionRoughnessMetallic.uasset" 626
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoLamp/dojoLamp.uasset" 627
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/Props/dojoLamp.uasset" 628
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/MountainStair/dojoMountainStair_Material_BaseColor.uasset" 629
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/MountainStair/dojoMountainStair_Material_Normal.uasset" 630
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/MountainStair/dojoMountainStair_Material_OcclusionRoughnessMetallic.uasset" 631
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/MountainStair/MountainStair_Mat.uasset" 632
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/Props/dojoMountainStair.uasset" 633
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoPoster/dojoPoster_Material_BaseColor.uasset" 634
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoPoster/dojoPoster_Material_Normal.uasset" 635
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoPoster/dojoPoster_Material_OcclusionRoughnessMetallic.uasset" 636
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoPoster/dojoPoster.uasset" 637
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/Props/dojoPoster.uasset" 638
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoRail/dojoRail_Material_BaseColor.uasset" 639
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoRail/dojoRail_Material_Normal.uasset" 640
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoRail/dojoRail_Material_OcclusionRoughnessMetallic.uasset" 641
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoRail/dojoRail.uasset" 642
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/Props/dojoRail.uasset" 643
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoRoof/dojoRoof_DefaultMaterial_BaseColor.uasset" 644
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoRoof/dojoRoof_DefaultMaterial_Normal.uasset" 645
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoRoof/dojoRoof_DefaultMaterial_OcclusionRoughnessMetallic.uasset" 646
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoRoof/dojoRoof_Mat.uasset" 647
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/Props/dojoRoof.uasset" 648
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoRoofCorner/dojoRoofCorner_DefaultMaterial_BaseColor.uasset" 649
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoRoofCorner/dojoRoofCorner_DefaultMaterial_Normal.uasset" 650
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoRoofCorner/dojoRoofCorner_DefaultMaterial_OcclusionRoughnessMetallic.uasset" 651
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoRoofCorner/dojoRoofCorner_Mat.uasset" 652
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/Props/dojoRoofCorner.uasset" 653
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/Props/dojoRoofCornerInner.uasset" 654
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoStone/dojoStone_Material_BaseColor.uasset" 655
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoStone/dojoStone_Material_Emissive.uasset" 656
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoStone/dojoStone_Material_Normal.uasset" 657
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoStone/dojoStone_Material_OcclusionRoughnessMetallic.uasset" 658
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoStone/dojoStone_Mat.uasset" 659
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/Props/dojoStone.uasset" 660
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoSupport/dojoSupport_Material_BaseColor.uasset" 661
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoSupport/dojoSupport_Material_OcclusionRoughnessMetallic.uasset" 662
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoSupport/dojoSupport_Mat.uasset" 663
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/Props/dojoSupport.uasset" 664
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoSwordHolder/dojoSwordHolder_holder_BaseColor.uasset" 665
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoSwordHolder/dojoSwordHolder_holder_Normal.uasset" 666
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoSwordHolder/dojoSwordHolder_holder_OcclusionRoughnessMetallic.uasset" 667
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoSwordHolder/dojoSwordHolder_Mat.uasset" 668
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/Props/dojoSwordHolder.uasset" 669
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoTable/dojoTable_Material_BaseColor.uasset" 670
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoTable/dojoTable_Material_Normal.uasset" 671
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoTable/dojoTable_Material_OcclusionRoughnessMetallic.uasset" 672
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoTable/dojoTable_Mat.uasset" 673
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/Props/dojoTable.uasset" 674
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoWall/dojoWall_Material_BaseColor.uasset" 675
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoWall/dojoWall_Material_Normal.uasset" 676
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoWall/dojoWall_Material_OcclusionRoughnessMetallic.uasset" 677
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoWall/dojoWall_Mat.uasset" 678
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/Props/dojoWall.uasset" 679
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoWindow/dojoWindow_Material_BaseColor.uasset" 680
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoWindow/dojoWindow_Material_Emissive.uasset" 681
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoWindow/dojoWindow_Material_Normal.uasset" 682
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoWindow/dojoWindow_Material_OcclusionRoughnessMetallic.uasset" 683
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoWindow/dojoWindow_Mat.uasset" 684
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/Props/dojoWindow.uasset" 685
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoStatue/flavorStatue_DefaultMaterial_BaseColor.uasset" 686
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoStatue/flavorStatue_DefaultMaterial_Normal.uasset" 687
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoStatue/flavorStatue_DefaultMaterial_OcclusionRoughnessMetallic.uasset" 688
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoStatue/dojoStatue_Mat.uasset" 689
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/Props/flavorStatue.uasset" 690
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoHangingMan/corpseHang_DefaultMaterial_BaseColor.uasset" 691
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoHangingMan/corpseHang_DefaultMaterial_Normal.uasset" 692
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoHangingMan/corpseHang_DefaultMaterial_OcclusionRoughnessMetallic.uasset" 693
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/dojoHangingMan/dojoHangingMan_Mat.uasset" 694
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Dojo/Props/ninjaHanging.uasset" 695
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Town/townBalcony/townBalcony_Material_BaseColor.uasset" 696
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Town/townBalcony/townBalcony_Material_Normal.uasset" 697
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Town/townBalcony/townBalcony_Material_OcclusionRoughnessMetallic.uasset" 698
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Town/townBalcony/townBalcony.uasset" 699
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Town/Props/townBalcony.uasset" 700
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Town/townBuilding2/townBuilding2_DefaultMaterial_BaseColor.uasset" 701
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Town/townBuilding2/townBuilding2_DefaultMaterial_Normal.uasset" 702
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Town/townBuilding2/townBuilding2_DefaultMaterial_OcclusionRoughnessMetallic.uasset" 703
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Town/townBuilding2/townBuilding2_Mat.uasset" 704
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Town/Props/townBuilding2.uasset" 705
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Town/townDoor/townDoor_Material_BaseColor.uasset" 706
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Town/townDoor/townDoor_Material_Normal.uasset" 707
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Town/townDoor/townDoor_Material_OcclusionRoughnessMetallic.uasset" 708
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Town/townDoor/townDoor_Mat.uasset" 709
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Town/Props/townDoor.uasset" 710
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Town/townDoubleDoor/townDoubleDoor_Material_BaseColor.uasset" 711
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Town/townDoubleDoor/townDoubleDoor_Material_Normal.uasset" 712
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Town/townDoubleDoor/townDoubleDoor_Material_OcclusionRoughnessMetallic.uasset" 713
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Town/townDoubleDoor/townDoubleDoor.uasset" 714
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Environment/Town/Props/townDoubleDoor.uasset" 715
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/UI/Source/Logo.uasset" 716
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/UI/Source/ue4Logo.uasset" 717
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/UI/TitleSequence.uasset" 718
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Maps/Dojo.umap" 719
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 720
+"../../../Engine/Content/Maps/Entry.umap" 721
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/UI/UI.uasset" 722
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Maps/MainMenu_BuiltData.uasset" 723
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Maps/MainMenu.umap" 724
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/UI/LoadingScreen.uasset" 725
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Maps/Persistent_Level_BuiltData.uasset" 726
+"../../../../../../Users/Speedy/Documents/Unreal Projects/OgreGame/Content/Maps/Persistent_Level.umap" 727
